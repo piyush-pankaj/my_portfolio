@@ -1,12 +1,12 @@
-title: Melani Timbu  # your name (or website title) here
-logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
+title: Piyush Pankaj  # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
   Python Connoisseur
   <br><br>
   Data Scientist
   <br><br>
-  <a href="https://www.linkedin.com/in/melani-timbu-8674b685">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/piyush-pankaj-8b44b9ab/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
