@@ -3,4 +3,4 @@ Website Address: [My Portfolio](https://piyushpankajtechis.github.io/my_portfoli
 - Data Science students' Portfolio Template
 
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/89073371/148211635-abdb3cd5-1099-46fc-beb7-d16008cf9704.gif)
+![ezgif com-gif-maker](https://github.com/piyushpankajtechis/my_portfolio/blob/master/Screen%20Recording%202022-05-05%20at%203.11.27%20PM.gif)
